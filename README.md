@@ -1,2 +1,2 @@
 # KaylieStutevilleArtPortfolio.github.io
-This is a website I coded using HTML for my Art Portfolio
+Welcome to my Art Portfolio. I created this site using HTML. Feel free to click through my page.
